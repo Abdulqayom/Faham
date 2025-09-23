@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Privacy Policy</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 20px;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      text-align: center;
+      padding: 10px 0 20px;
+    }
+    h1 {
+      font-size: 28px;
+      margin-bottom: 10px;
+    }
+    h2 {
+      margin-top: 24px;
+      font-size: 20px;
+      color: #444;
+    }
+    p {
+      margin: 12px 0;
+    }
+    footer {
+      margin-top: 40px;
+      text-align: center;
+      font-size: 14px;
+      color: #666;
+    }
+    a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Privacy Policy</h1>
+    <p>Effective Date: January 1, 2025</p>
+  </header>
+
+  <section>
+    <p>
+      This Privacy Policy explains how <strong>[Your App Name]</strong> ("we",
+      "our", or "us") collects, uses, and protects information when you use our
+      mobile application (the "App").
+    </p>
+
+    <h2>Information We Collect</h2>
+    <p>
+      We may collect personal information that you provide directly to us, such
+      as your name, email address, phone number, or payment details when using
+      our services. We may also collect non-personal information such as device
+      type, operating system, and usage data to improve the App.
+    </p>
+
+    <h2>How We Use Information</h2>
+    <p>We use the information we collect to:</p>
+    <ul>
+      <li>Provide, operate, and improve our App</li>
+      <li>Process transactions and send confirmations</li>
+      <li>Respond to customer support requests</li>
+      <li>Send important updates and notifications</li>
+      <li>Ensure compliance with applicable laws</li>
+    </ul>
+
+    <h2>Sharing of Information</h2>
+    <p>
+      We do not share your personal information with third parties except as
+      required by law, to protect our legal rights, or with trusted service
+      providers who help us operate the App.
+    </p>
+
+    <h2>Data Security</h2>
+    <p>
+      We use reasonable measures to protect your information from unauthorized
+      access, use, or disclosure. However, no method of transmission over the
+      Internet or method of electronic storage is 100% secure.
+    </p>
+
+    <h2>Children's Privacy</h2>
+    <p>
+      Our App is not intended for children under the age of 13, and we do not
+      knowingly collect personal information from children.
+    </p>
+
+    <h2>Your Rights</h2>
+    <p>
+      You may request to access, update, or delete your personal information by
+      contacting us at the email address provided below.
+    </p>
+
+    <h2>Changes to This Policy</h2>
+    <p>
+      We may update this Privacy Policy from time to time. Any changes will be
+      posted on this page with an updated effective date.
+    </p>
+
+    <h2>Contact Us</h2>
+    <p>
+      If you have any questions or concerns about this Privacy Policy, please
+      contact us at:
+    </p>
+    <p>
+      <strong>[Your Company / Developer Name]</strong><br />
+      Email: <a href="mailto:[your-email@example.com]">[your-email@example.com]</a>
+    </p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 [Your Company / Developer Name]. All rights reserved.</p>
+  </footer>
+</body>
+</html>
